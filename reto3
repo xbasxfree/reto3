@@ -1,10 +1,1 @@
-# Solicita al usuario que introduzca dos números
-num1 = float(input("Introduce el primer número: "))
-num2 = float(input("Introduce el segundo número: "))
-
-# Determina el paso para la función range()
-paso = 1 if num1 <= num2 else -1
-
-# Imprime los números entre num1 y num2
-for i in range(int(num1), int(num2) + paso, paso):
-    print(i)
+Mamame el huevo muñoz
